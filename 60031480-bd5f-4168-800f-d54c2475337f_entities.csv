@@ -1,0 +1,5 @@
+locations,Location,emplacement,positioning,placement,campsite,spot,venue,locality,proximity,locations
+Menu,vegetarian,gluten,recipes,nutritious,macrobiotic,veg,vegeterian,meatless,veggie,vegetarians,vegan
+Menu,Non-Vegetarian,Flesh,Meat,kababs,nonvegetarian
+Order_Number,Order_Syntax,/[A-Z]{2}\d{5}/
+Restaurant,Restaurant,steakhouse,cafe,bistro,dinner,hotel,dining,deli,diner,café,restaurants

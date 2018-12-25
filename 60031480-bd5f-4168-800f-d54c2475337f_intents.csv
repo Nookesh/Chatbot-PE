@@ -1,0 +1,191 @@
+Describe your restaurant,About_You_Restaurant
+About your restaurant,About_You_Restaurant
+What's your name?,About_You_Restaurant
+i want to know your restuarant?,About_You_Restaurant
+i would like to know about your restaurant,About_You_Restaurant
+Tell me about the restaurant,About_You_Restaurant
+How many branches do you have?,Branches
+How many locations do you have?,Branches
+I need to cancel an order I just placed,Cancel_Order
+I'd like to cancel my order,Cancel_Order
+I want to cancel my cake order,Cancel_Order
+I would like to speak to a human,Connect_to_Real_Agent
+I want an agent to help me,Connect_to_Real_Agent
+I want agent,Connect_to_Real_Agent
+I want a manager,Connect_to_Real_Agent
+I need to speak to a representative. How would I go about doing so?,Connect_to_Real_Agent
+"A real agent, please.",Connect_to_Real_Agent
+Agent help,Connect_to_Real_Agent
+Call agent,Connect_to_Real_Agent
+Can I connect to an agent?,Connect_to_Real_Agent
+Can I speak to a human please?,Connect_to_Real_Agent
+Can I speak to a live person?,Connect_to_Real_Agent
+Can I speak to an advisor?,Connect_to_Real_Agent
+Can I speak with somebody?,Connect_to_Real_Agent
+Can I talk to someone?,Connect_to_Real_Agent
+Can you assist me to connect to an agent?,Connect_to_Real_Agent
+Can you connect me with a real person?,Connect_to_Real_Agent
+Connect me to a live operator please.,Connect_to_Real_Agent
+Contact person,Connect_to_Real_Agent
+Could you please transfer me to your master?,Connect_to_Real_Agent
+Customer service representative please.,Connect_to_Real_Agent
+Do not want a robot?,Connect_to_Real_Agent
+Hi can you transfer me,Connect_to_Real_Agent
+How can I skip the recorded menu and go straight to a live person?,Connect_to_Real_Agent
+I don't want to talk to a bot.,Connect_to_Real_Agent
+I don't want to talk to you,Connect_to_Real_Agent
+"Yes, take me to a real person",Connect_to_Real_Agent
+Where is the closest agent?,Connect_to_Real_Agent
+Send me to an agent,Connect_to_Real_Agent
+Put me through to someone,Connect_to_Real_Agent
+Pls connect,Connect_to_Real_Agent
+Please let me talk to a human being.,Connect_to_Real_Agent
+Please connect me to a live agent,Connect_to_Real_Agent
+Please assist me to get to an agent,Connect_to_Real_Agent
+Operator please,Connect_to_Real_Agent
+Need help from human,Connect_to_Real_Agent
+Is there anyone there I can actually talk to for real?,Connect_to_Real_Agent
+I would like to speak to someone,Connect_to_Real_Agent
+I want to talk to a person,Connect_to_Real_Agent
+I am out of here,General_Ending
+I am leaving,General_Ending
+Hey bot go away,General_Ending
+Have a nice day?,General_Ending
+Goodbye,General_Ending
+Good. bye.,General_Ending
+Going now,General_Ending
+Go off,General_Ending
+Go away,General_Ending
+Get lost,General_Ending
+"Finished now, good bye",General_Ending
+Ending this session,General_Ending
+End trial,General_Ending
+Cya later,General_Ending
+Catch you later,General_Ending
+Bye now,General_Ending
+Bye bye,General_Ending
+I have got to go,General_Ending
+That's everything,General_Ending
+That is all,General_Ending
+"Thanks very much, bye!",General_Ending
+"Thanks, bye!",General_Ending
+Thank you for your time,General_Ending
+Stop talking to me,General_Ending
+Stop doing this,General_Ending
+Shut up,General_Ending
+See you,General_Ending
+See you later,General_Ending
+Ok goodbye,General_Ending
+It was nice chatting with you,General_Ending
+I'm leaving now,General_Ending
+Im good thank you,General_Ending
+Im done,General_Ending
+I'm done,General_Ending
+I want to quit,General_Ending
+Time to go,General_Ending
+I d like to stop doing this,General_Ending
+Hi advisor,General_Greetings
+Good day,General_Greetings
+Good evening,General_Greetings
+Good morning,General_Greetings
+Good to see you,General_Greetings
+Greetings,General_Greetings
+Have you been well?,General_Greetings
+Hello Agent,General_Greetings
+Hello I am looking for some help here,General_Greetings
+Hello,General_Greetings
+Hey how are you doing,General_Greetings
+Hey there all,General_Greetings
+Hey there,General_Greetings
+Hey twin,General_Greetings
+Hey you,General_Greetings
+Hi there,General_Greetings
+How are things going?,General_Greetings
+How are you today?,General_Greetings
+How have you been?,General_Greetings
+How is it going?,General_Greetings
+How r u?,General_Greetings
+Looking good eve,General_Greetings
+Ok take me back,General_Greetings
+What's new?,General_Greetings
+What's up?,General_Greetings
+Who is this?,General_Greetings
+You there,General_Greetings
+Am I talking to Watson?,General_Human_or_Bot
+Am I talking to a Bot?,General_Human_or_Bot
+Am I talking to a person or am I talking to an AI?,General_Human_or_Bot
+Are you a human or a bot?,General_Human_or_Bot
+Are you even real?,General_Human_or_Bot
+Am I chatting with a human?,General_Human_or_Bot
+Are you real?,General_Human_or_Bot
+How can you prove you are a human?,General_Human_or_Bot
+Is this a computer?,General_Human_or_Bot
+"Tell me, are you a human or no?",General_Human_or_Bot
+Are you a robot?,General_Human_or_Bot
+Are you human?,General_Human_or_Bot
+Why are you so annoying?,General_Negative_Feedback
+Everyone hates you,General_Negative_Feedback
+Hate you,General_Negative_Feedback
+I do not like you,General_Negative_Feedback
+I hate this!,General_Negative_Feedback
+Why are you stupid?,General_Negative_Feedback
+You are having delusions,General_Negative_Feedback
+You are on my nerves,General_Negative_Feedback
+You are very frustrating,General_Negative_Feedback
+You do not seem smart,General_Negative_Feedback
+I hate you,General_Negative_Feedback
+It is annoying,General_Negative_Feedback
+Quit annoying me,General_Negative_Feedback
+Robots are boring,General_Negative_Feedback
+Robots are stupid,General_Negative_Feedback
+Stupid,General_Negative_Feedback
+Do not like you?,General_Negative_Feedback
+You're too stupid,General_Negative_Feedback
+You're really irritating,General_Negative_Feedback
+You're really frustrating,General_Negative_Feedback
+You are great,General_Positive_Feedback
+You are the best,General_Positive_Feedback
+You are wonderful,General_Positive_Feedback
+You gave me exactly what I need!,General_Positive_Feedback
+You the man,General_Positive_Feedback
+You're a genius!,General_Positive_Feedback
+You've been so helpful :),General_Positive_Feedback
+Ok thank you,General_Positive_Feedback
+I'm looking forward to working with you again! :),General_Positive_Feedback
+I like what you did there! :),General_Positive_Feedback
+How cool is this?,General_Positive_Feedback
+Can't believe you are that good,General_Positive_Feedback
+Brilliant!,General_Positive_Feedback
+Thanku,General_Positive_Feedback
+Thank you,General_Positive_Feedback
+This is good,General_Positive_Feedback
+This is great,General_Positive_Feedback
+This is so cool,General_Positive_Feedback
+Love your work,General_Positive_Feedback
+You are awesome,General_Positive_Feedback
+Are there any specials today?,Menu
+where can i find out about your cuisine?,Menu
+What dishes do you have?,Menu
+What do you have for food?,Menu
+Can i see your menu?,Menu
+I want to see a menu,Menu
+Can 3 of us get a table for lunch?,Reservation
+I want to reserve a table for dinner,Reservation
+I would like to make a reservation,Reservation
+I would like to book a table for lunch,Reservation
+can i reserve a table?,Reservation
+I want to order something,Want_to_order
+I would like to place an order,Want_to_order
+I would like to order,Want_to_order
+Want to order,Want_to_order
+Yes,Yes
+That's right,Yes
+Please do that.,Yes
+Please do.,Yes
+Right,Yes
+Correct,Yes
+"Yes, I'd like to go ahead with that.",Yes
+Yup,Yes
+yeah,Yes
+that is correct.,Yes
+You've got it right.,Yes
